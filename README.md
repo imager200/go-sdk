@@ -12,7 +12,7 @@ To use the API, a (free) [registration](https://panel.imager200.io/) is needed i
 ## Example usage:
 
 
-```
+```golang
 package main
 
 import (
